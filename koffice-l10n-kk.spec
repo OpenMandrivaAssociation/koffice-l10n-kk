@@ -1,5 +1,5 @@
 Name: koffice-l10n-kk
-Version: 2.1.82
+Version: 2.1.91
 Release: %mkrel 1
 Summary: Language files for KOffice Kazakh
 Group: System/Internationalization
